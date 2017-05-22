@@ -7,7 +7,6 @@ description: WCAG by role
 ## Who is responsible for each success criteria
 
 <table>
-  <caption>Delivery slots:</caption>
   <tr>
     <th scope="col">Success criteria</th>
     <th scope="col">Content</th>
@@ -16,9 +15,9 @@ description: WCAG by role
   </tr>
   <tr>
     <th scope="row">1.1.1 Non Text Content</th>
-    <td>Yes</td>
-    <td>No</td>
-    <td>Yes</td>
+    <td class="yes">Yes</td>
+    <td class="no">No</td>
+    <td class="yes">Yes</td>
   </tr>
   <tr>
     <th scope="row">insert</th>
