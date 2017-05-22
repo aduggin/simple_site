@@ -9,3 +9,7 @@ code {
 a code {
   color: #08c;
 }
+
+table, th, td {
+	border: 1px solid #999;
+}
