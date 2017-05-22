@@ -46,6 +46,7 @@ All non-text content like images, charts, icons and infographics, must have an a
 ##### Useful resources
 * [W3C Requirements for providing text to act as an alternative for images](https://www.w3.org/TR/html51/semantics-embedded-content.html#alt-text)
 * [W3C Alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+
 #### [1.2.1 Audio-only and video-only](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-av-only-alt.html)
 All content that is audio-only like a podcast, or video-only like a silent movie, must have a text description or an audio description. This ensures that information communicated for sight and sound is available to people who cannot see or hear.
 ##### Requirements
@@ -60,6 +61,7 @@ All content that is audio-only like a podcast, or video-only like a silent movie
 * The audio description for video-only content does not include descriptions of all important visual information;
 ##### Useful resources
 * [What are transcripts?](https://www.nomensa.com/blog/2010/what-are-transcripts/)
+
 #### [1.2.2 Captions](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-captions.html)
 Video content like instructional videos, promotions and interviews, must have captions that are synchronised with the audio content of the video. This ensures that the information communicated by the audio part of the video is available to people who cannot hear it.
 ##### Requirements
@@ -72,6 +74,7 @@ Video content like instructional videos, promotions and interviews, must have ca
 ##### Useful resources
 * [What are captions?](https://www.nomensa.com/blog/2010/what-are-captions)
 * [Sounding out the web: accessibility for Deaf and hard of hearing people (Part 2](https://www.paciellogroup.com/blog/2017/03/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/)
+
 #### [1.2.3 Audio description or media alternative](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc.html)
 Video content like instructional videos must have audio description, unless it already has a text alternative. This ensures that information communicated visually in the video is available to people who cannot see it.
 ##### Requirements
@@ -83,6 +86,7 @@ Video content like instructional videos must have audio description, unless it a
 * The audio description is not synchronised to complement the audio content of the video.
 ##### Useful resources
 * [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
+
 #### [1.3.1 Info and relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
 When content structures like tables, lists and headings are communicated visually, they must also be communicated in ways that assistive technologies can understand. This ensures that content structures are available to screen reader, screen magnifier and speech recognition tool users.
 ##### Requirements
@@ -110,6 +114,7 @@ Instructions must not depend on sensory characteristics like shape, size, colour
 * An instruction tells users to "follow the biggest link in the tag cloud".
 ##### Useful resources
 * TBC
+
 #### [2.4.2 Page title](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title.html)
 Each page must have a unique title that indicates its topic or purpose. This ensures that people can quickly orientate themselves within the service and identify the purpose of the page without interpreting its entire contents.
 ##### Requirements
@@ -121,6 +126,7 @@ Each page must have a unique title that indicates its topic or purpose. This ens
 * The title does not indicate the page is part of a service on Gov.UK.
 ##### Useful resources
 * [How to write better page titles](https://www.nomensa.com/blog/2013/how-to-write-better-page-titles)
+
 #### [2.4.4 Link purpose (in context)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html)
 The purpose of every link must be clear from its link text, or its link text plus associated content if assistive technologies recognise the association. This ensures that screen reader users can understand the purpose of links without reading nearby content, and that speech recognition users can target links accurately using voice commands.
 ##### Requirements
@@ -134,6 +140,7 @@ The purpose of every link must be clear from its link text, or its link text plu
 ##### Useful resources
 * [Writing good link text](https://www.nomensa.com/blog/2011/writing-good-link-text)
 * [GOV.UK: Using links in content](https://www.gov.uk/guidance/content-design/links#using-links-in-content)
+
 #### [3.3.1 Error identification](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-identified.html)
 When an error occurs the user is informed what caused the error, and the error is described in text. This ensures that the error is available to people who cannot see, distinguish colours, or understand icons and other visual cues.
 ##### Requirements
@@ -147,6 +154,7 @@ When an error occurs the user is informed what caused the error, and the error i
 * Multiple errors occur, but no summary is provided.
 ##### Useful resources
 * TBC
+
 ### Level AA
 #### [1.2.5 Audio description (pre-recorded)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc-only.html)
 Video content like instructional videos must have audio description. This ensures that information communicated visually in the video is available to people who cannot see it.
@@ -158,6 +166,7 @@ Video content like instructional videos must have audio description. This ensure
 * The audio description is not synchronised to complement the audio content of the video.
 ##### Useful resources
 * [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
+
 #### [2.4.6 Headings and labels](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html)
 Headings must indicate the topic or purpose of the content in that section of the page, and labels must indicate the purpose of the field they relate to. This ensures people with reading difficulties can understand the purpose of content, and that screen reader users can easily navigate to relevant sections of content on the page.
 ##### Requirements
@@ -168,6 +177,7 @@ Headings must indicate the topic or purpose of the content in that section of th
 * A label does not indicate the purpose of the field it relates to.
 ##### Useful resources
 * TBC
+
 #### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
 When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
 ##### Requirements
