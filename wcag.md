@@ -278,8 +278,6 @@ description: WCAG by role
     </tbody>
 </table>
 
-<div id="wcag-detail">
-
 ## Percieveable
 
 ### 1.1 Text Alternatives
@@ -486,5 +484,3 @@ When an error occurs the user is informed what caused the error, and the error i
 
 ##### Useful resources
 * TBC
-
-</div>
