@@ -6,8 +6,10 @@ description: WCAG by role
 
 ## Responsibility for each success criteria
 
+### Percieveable
+
 <table>
-    <caption>Percieveable</caption>
+    <caption>1.1 Text Alternatives</caption>
     <thead>
         <tr>
             <th scope="col">Success criteria</th>
@@ -23,6 +25,20 @@ description: WCAG by role
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>1.2 Time-based Media</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row"><a href="#121-audio-only-and-video-only-a">1.2.1 Audio-only and Video-only (Prerecorded) (A)</a></th>
             <td class="yes">Yes</td>
@@ -53,6 +69,20 @@ description: WCAG by role
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>1.3 Adaptable</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row"><a href="#131-info-and-relationships-a">1.3.1 Info and Relationships (A)</a></th>
             <td class="yes">Yes</td>
@@ -71,6 +101,20 @@ description: WCAG by role
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>1.4 Distinguishable</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row">1.4.1 Use of Color (A)</th>
             <td class="no">No</td>
@@ -104,8 +148,11 @@ description: WCAG by role
     </tbody>
 </table>
 
+
+### Operable
+
 <table>
-    <caption>Operable</caption>
+    <caption>2.1 Keyboard Accessible</caption>
     <thead>
         <tr>
             <th scope="col">Success criteria</th>
@@ -127,6 +174,20 @@ description: WCAG by role
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>2.2 Enough Time</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row"><a href="#221-timing-adjustable-a">2.2.1 Timing Adjustable (A)</a></th>
             <td class="no">No</td>
@@ -139,12 +200,40 @@ description: WCAG by role
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>2.3 Seizures</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row"><a href="#231-three-flashes-or-below-a">2.3.1 Three Flashes or Below Threshold (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>2.4 Navigable</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row"><a href="#241-bypass-blocks-a">2.4.1 Bypass Blocks (A)</a></th>
             <td class="no">No</td>
@@ -187,11 +276,14 @@ description: WCAG by role
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
+        
     </tbody>
 </table>
 
+### Understandable
+
 <table>
-    <caption>Understandable</caption>
+    <caption>3.1 Readable</caption>
     <thead>
         <tr>
             <th scope="col">Success criteria</th>
@@ -213,6 +305,20 @@ description: WCAG by role
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>3.2 Predictable</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row">3.2.1 On Focus (A)</th>
             <td class="no">No</td>
@@ -237,6 +343,20 @@ description: WCAG by role
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>3.3 Input Assistance</caption>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <th scope="row"><a href="#331-error-identification-a">3.3.1 Error Identification (A)</a></th>
             <td class="yes">Yes</td>
@@ -264,8 +384,10 @@ description: WCAG by role
     </tbody>
 </table>
 
+### Robust
+
 <table>
-    <caption>Robust</caption>
+    <caption>4.1 Compatible</caption>
     <thead>
         <tr>
             <th scope="col">Success criteria</th>
