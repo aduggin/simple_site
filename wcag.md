@@ -18,85 +18,85 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">1.1.1 Non-text Content - A</th>
+            <th scope="row">1.1.1 Non-text Content (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.2.1 Audio-only and Video-only (Prerecorded) - A</th>
+            <th scope="row">1.2.1 Audio-only and Video-only (Prerecorded) (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.2 Captions (Prerecorded) - A</th>
+            <th scope="row">1.2.2 Captions (Prerecorded) (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.3 Audio Description or Media Alternative (Prerecorded) - AA</th>
+            <th scope="row">1.2.3 Audio Description or Media Alternative (Prerecorded) (AA)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.4 Captions (Live) - AA</th>
+            <th scope="row">1.2.4 Captions (Live) (AA)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.5 Audio Description (Prerecorded) - AA</th>
+            <th scope="row">1.2.5 Audio Description (Prerecorded) (AA)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.3.1 Info and Relationships - A</th>
+            <th scope="row">1.3.1 Info and Relationships (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.3.2 Meaningful Sequence - A</th>
+            <th scope="row">1.3.2 Meaningful Sequence (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.3.3 Sensory Characteristics - A</th>
+            <th scope="row">1.3.3 Sensory Characteristics (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.1 Use of Color - A</th>
+            <th scope="row">1.4.1 Use of Color (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.2 Audio Control - A</th>
+            <th scope="row">1.4.2 Audio Control (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.3 Contrast (Minimum) - AA</th>
+            <th scope="row">1.4.3 Contrast (Minimum) (AA)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.4 Resize text - AA</th>
+            <th scope="row">1.4.4 Resize text (AA)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.4.5 Images of Text - AA</th>
+            <th scope="row">1.4.5 Images of Text (AA)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -116,73 +116,73 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">2.1.1 Keyboard - A</th>
+            <th scope="row">2.1.1 Keyboard (A)</th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.1.2 No Keyboard Trap - A</th>
+            <th scope="row">2.1.2 No Keyboard Trap (A)</th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.2.1 Timing Adjustable - A</th>
+            <th scope="row">2.2.1 Timing Adjustable (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.2.2 Pause, Stop, Hide - A</th>
+            <th scope="row">2.2.2 Pause, Stop, Hide (A)</th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.3.1 Three Flashes or Below Threshold - A</th>
+            <th scope="row">2.3.1 Three Flashes or Below Threshold (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">2.4.1 Bypass Blocks - A</th>
+            <th scope="row">2.4.1 Bypass Blocks (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.2 Page Titled - A</th>
+            <th scope="row">2.4.2 Page Titled (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.3 Focus Order - A</th>
+            <th scope="row">2.4.3 Focus Order (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.4 Link Purpose (In Context) - AA</th>
+            <th scope="row">2.4.4 Link Purpose (In Context) (AA)</th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.5 Multiple Ways - AA</th>
+            <th scope="row">2.4.5 Multiple Ways (AA)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">2.4.6 Headings and Labels - AA</th>
+            <th scope="row">2.4.6 Headings and Labels (AA)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">2.4.7 Focus Visible - AA</th>
+            <th scope="row">2.4.7 Focus Visible (AA)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -202,49 +202,49 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">3.1.1 Language of Page - A</th>
+            <th scope="row">3.1.1 Language of Page (A)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.1.2 Language of Parts - AA</th>
+            <th scope="row">3.1.2 Language of Parts (AA)</th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.2.1 On Focus - A</th>
+            <th scope="row">3.2.1 On Focus (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.2.2 On Input - A</th>
+            <th scope="row">3.2.2 On Input (A)</th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.3.1 Error Identification - A</th>
+            <th scope="row">3.3.1 Error Identification (A)</th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.3.2 Labels or Instructions - A</th>
+            <th scope="row">3.3.2 Labels or Instructions (A)</th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">3.3.3 Error Suggestion - AA</th>
+            <th scope="row">3.3.3 Error Suggestion (AA)</th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.3.4 Error Prevention (Legal, Financial, Data) - AA</th>
+            <th scope="row">3.3.4 Error Prevention (Legal, Financial, Data) (AA)</th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -264,13 +264,13 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">4.1.1 Parsing - A</th>
+            <th scope="row">4.1.1 Parsing (A)</th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">4.1.2 Name, Role, Value - A</th>
+            <th scope="row">4.1.2 Name, Role, Value (A)</th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
@@ -282,7 +282,7 @@ description: WCAG by role
 
 ### 1.1 Text Alternatives
 
-#### [1.1.1 Non-text content](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html)
+#### [1.1.1 Non-text content (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html)
 All non-text content like images, charts, icons and infographics, must have an appropriate text equivalent. This ensures that information conveyed by non-text content is available to people who cannot see it, like screen reader users.
 
 ##### Requirements
@@ -303,7 +303,7 @@ All non-text content like images, charts, icons and infographics, must have an a
 
 ### 1.2 Time-based Media
 
-#### [1.2.1 Audio-only and video-only](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-av-only-alt.html)
+#### [1.2.1 Audio-only and video-only (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-av-only-alt.html)
 All content that is audio-only like a podcast, or video-only like a silent movie, must have a text description or an audio description. This ensures that information communicated for sight and sound is available to people who cannot see or hear.
 
 ##### Requirements
@@ -321,7 +321,7 @@ All content that is audio-only like a podcast, or video-only like a silent movie
 ##### Useful resources
 * [What are transcripts?](https://www.nomensa.com/blog/2010/what-are-transcripts/)
 
-#### [1.2.2 Captions](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-captions.html)
+#### [1.2.2 Captions (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-captions.html)
 Video content like instructional videos, promotions and interviews, must have captions that are synchronised with the audio content of the video. This ensures that the information communicated by the audio part of the video is available to people who cannot hear it.
 
 ##### Requirements
@@ -337,7 +337,7 @@ Video content like instructional videos, promotions and interviews, must have ca
 * [What are captions?](https://www.nomensa.com/blog/2010/what-are-captions)
 * [Sounding out the web: accessibility for Deaf and hard of hearing people (Part 2](https://www.paciellogroup.com/blog/2017/03/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/)
 
-#### [1.2.3 Audio description or media alternative](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc.html)
+#### [1.2.3 Audio description or media alternative (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc.html)
 Video content like instructional videos must have audio description, unless it already has a text alternative. This ensures that information communicated visually in the video is available to people who cannot see it.
 
 ##### Requirements
@@ -352,7 +352,7 @@ Video content like instructional videos must have audio description, unless it a
 ##### Useful resources
 * [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
 
-#### [1.2.4 Captions (live)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html)
+#### [1.2.4 Captions (live) (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html)
 Live broadcast video must have captions that are synchronised with the audio content of the video. This ensures that the information communicated by the audio part of the video is available to people who cannot hear it.
 
 ##### Requirements
@@ -366,7 +366,7 @@ Live broadcast video must have captions that are synchronised with the audio con
 * [What are captions?](https://www.nomensa.com/blog/2010/what-are-captions)
 * [Sounding out the web: accessibility for Deaf and hard of hearing people (Part 2](https://www.paciellogroup.com/blog/2017/03/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/)
 
-#### [1.2.5 Audio description (pre-recorded)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc-only.html)
+#### [1.2.5 Audio description (pre-recorded) (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc-only.html)
 Video content like instructional videos must have audio description. This ensures that information communicated visually in the video is available to people who cannot see it.
 
 ##### Requirements
@@ -382,7 +382,7 @@ Video content like instructional videos must have audio description. This ensure
 
 ### 1.3 Adaptable
 
-#### [1.3.1 Info and relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
+#### [1.3.1 Info and relationships (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
 When content structures like tables, lists and headings are communicated visually, they must also be communicated in ways that assistive technologies can understand. This ensures that content structures are available to screen reader, screen magnifier and speech recognition tool users.
 
 ##### Requirements
@@ -408,7 +408,7 @@ When content structures like tables, lists and headings are communicated visuall
 * [Using HTML lists](https://www.nomensa.com/blog/2011/using-html-lists)
 * [Tables, more than just rows and columns](https://www.nomensa.com/blog/2008/tables-more-than-just-rows-and-cells)
 
-#### [1.3.2 Meaningful sequence](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html)
+#### [1.3.2 Meaningful sequence (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html)
 When the order of content is important, the content order must be preserved no matter how it is presented to the user. This ensures that the order of content is meaningful whether someone is looking at it, listening to it with a screen reader, or has stripped out visual styling using a browser plugin.
 
 ##### Requirements
@@ -425,7 +425,7 @@ When the order of content is important, the content order must be preserved no m
 * [FlexBox and the keyboard navigation disconnect](http://tink.uk/flexbox-the-keyboard-navigation-disconnect/)
 * [Using the tabindex attribute](https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/)
 
-#### [1.3.3 Sensory characteristics](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-understanding.html)
+#### [1.3.3 Sensory characteristics (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-understanding.html)
 Instructions must not depend on sensory characteristics like shape, size, colour, or location. This ensures that instructions can be understood by users who are unable to see or recognise information communicated using sensory characteristics.
 
 ##### Requirements
@@ -442,7 +442,7 @@ Instructions must not depend on sensory characteristics like shape, size, colour
 
 ### 1.4 Distinguishable
 
-#### [1.4.2 Audio control](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-dis-audio.html)
+#### [1.4.2 Audio control (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-dis-audio.html)
 When audio or video plays automatically on a page, it should last for less than three seconds or there must be a way to pause/stop it. This ensures that people who listen to content with a screen reader can do so without it being drowned out by the audio/video.
 
 ##### Requirements
@@ -455,7 +455,7 @@ When audio or video plays automatically on a page, it should last for less than 
 ##### Useful resources
 * TBC
 
-#### [1.4.3 Contrast minimum](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
+#### [1.4.3 Contrast minimum (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
 Text must have a contrast ratio of at least 4.5:1 against its background colour. This makes content easier for everyone to read, but especially partially sighted people.
 
 ##### Requirements
@@ -467,13 +467,13 @@ Text must have a contrast ratio of at least 4.5:1 against its background colour.
 ##### Useful resources
 * TBC
 
-#### [1.4.4 Resize text](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html)
+#### [1.4.4 Resize text (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html)
 It must be possible for people to increase the size of text by up to 200%. This ensures that partially sighted people can comfortably read content.
 
 ##### Requirements
 * We need to decide whether we want to use text resize or zoom as the preferred mechanism.
 
-#### [1.4.5 Images of text](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-text-presentation.html)
+#### [1.4.5 Images of text (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-text-presentation.html)
 Text must not be presented as part of an image because it cannot be resized, and it deteriorates in quality when magnified. This means that everyone is able to read and access information presented in text.
 
 ##### Requirements
@@ -490,7 +490,7 @@ Text must not be presented as part of an image because it cannot be resized, and
 
 ### 2.1 Keyboard Accessible
 
-#### [2.1.1 Keyboard](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-keyboard-operable.html)
+#### [2.1.1 Keyboard (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-keyboard-operable.html)
 It must be possible for someone using a keyboard or touch device to complete all tasks in a service. This ensures that people with mobility impairments who do not use a mouse can successfully complete their goals.
 
 ##### Requirements
@@ -508,7 +508,7 @@ It must be possible for someone using a keyboard or touch device to complete all
 * [Using the tabindex attribute](https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/)
 * [Ridiculously easy trick for keyboard accessibility](http://www.karlgroves.com/2014/11/24/ridiculously-easy-trick-for-keyboard-accessibility/)
 
-#### [2.1.2 No keyboard trap](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-trapping.html)
+#### [2.1.2 No keyboard trap (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-trapping.html)
 When someone using a keyboard to navigate content moves to an element, they must be able to move away from it again. This ensures that people who use a keyboard do not get stuck on any part of the page.
 
 ##### Requirements
@@ -523,7 +523,7 @@ When someone using a keyboard to navigate content moves to an element, they must
 
 ### 2.2 Enough Time
 
-#### [2.2.1 Timing adjustable](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-required-behaviors.html)
+#### [2.2.1 Timing adjustable (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-required-behaviors.html)
 When a time limit like a session timeout is set, it must be possible for the user to turn it off, delay it, or extend the length of time. This ensures that people who need longer to complete tasks because of cognitive or mobility impairments, are able to do so comfortably.
 
 ##### Requirements
@@ -536,7 +536,7 @@ When a time limit like a session timeout is set, it must be possible for the use
 ##### Useful resources
 * [Accessible timeout notifications](https://www.google.co.uk/search?client=firefox-b-ab&q=tink.uk+%2B+alerts&oq=tink.uk+%2B+alerts&gs_l=serp.3...11843.19075.0.19198.33.31.2.0.0.0.222.2583.24j5j1.30.0....0...1.1.64.serp..1.28.2205.0..0j0i131k1j0i67k1j0i10i67k1j0i10k1j0i13k1j0i13i10k1j0i30k1j0i8i30k1j0i8i10i30k1j0i22i30k1j0i22i10i30k1j0i13i30k1j0i13i5i30k1j0i8i13i30k1j0i8i13i10i30k1j33i160k1j33i21k1.qfLU1yJF7Ig)
 
-#### [2.2.2 Pause, stop, hide](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause.html)
+#### [2.2.2 Pause, stop, hide (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause.html)
 When content moves (is animated, blinks or scrolls) automatically for more than five seconds, or when content automatically updates on the page, it must be possible for users to Pause, stop or hide it. This ensures that people with cognitive disabilities that affect focus and concentration, are not distracted by movement.
 
 ##### Requirements
@@ -551,7 +551,7 @@ When content moves (is animated, blinks or scrolls) automatically for more than 
 * TBC
 
 ### 2.3 Seizures
-#### [2.3.1 Three flashes or below](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html)
+#### [2.3.1 Three flashes or below (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html)
 A page must not contain content that flashes more than three times a second. This ensures that people with conditions like photosensitive Epilepsy are protected from harmful seizures.
 
 ##### Requirements
@@ -565,7 +565,7 @@ A page must not contain content that flashes more than three times a second. Thi
 
 ### 2.4 Navigable
 
-#### [2.4.1 Bypass blocks](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html)
+#### [2.4.1 Bypass blocks (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html)
 When there is repeated content (like a header) at the top of the page, there must be a way for keyboard users to move focus directly to the start of the main content area of the page. This ensures that people who do not use a mouse can quickly and easily reach the primary content of the page.
 
 ##### Requirements
@@ -580,7 +580,7 @@ When there is repeated content (like a header) at the top of the page, there mus
 ##### Useful resources
 * TBC
 
-#### [2.4.2 Page title](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title.html)
+#### [2.4.2 Page title (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title.html)
 Each page must have a unique title that indicates its topic or purpose. This ensures that people with cognitive disabilities can quickly orientate themselves within the service and identify the purpose of the page without interpreting its entire contents.
 
 ##### Requirements
@@ -596,7 +596,7 @@ Each page must have a unique title that indicates its topic or purpose. This ens
 ##### Useful resources
 * [How to write better page titles](https://www.nomensa.com/blog/2013/how-to-write-better-page-titles)
 
-#### [2.4.3 Focus order](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html)
+#### [2.4.3 Focus order (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html)
 It must be possible to navigate through content in a way that makes sense. This ensures that content can be navigated in a logical way by screen reader users, keyboard users, and people who choose to use their own CSS style sheets.
 
 ##### Requirements
@@ -610,7 +610,7 @@ It must be possible to navigate through content in a way that makes sense. This 
 ##### Useful resources
 * TBC
 
-#### [2.4.4 Link purpose (in context)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html)
+#### [2.4.4 Link purpose (in context) (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html)
 The purpose of every link must be clear from its link text, or its link text plus associated content if assistive technologies recognise the association. This ensures that screen reader users can understand the purpose of links without reading nearby content, and that speech recognition users can target links accurately using voice commands.
 
 ##### Requirements
@@ -637,7 +637,7 @@ Unless the service is a series of steps, there must be different ways for people
 ##### Requirements
 * Hmm. Difficult to phrase this in a way that's relevant for GDS.
 
-#### [2.4.6 Headings and labels](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html)
+#### [2.4.6 Headings and labels (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html)
 Headings must indicate the topic or purpose of the content in that section of the page, and labels must indicate the purpose of the field they relate to. This ensures people with reading difficulties can understand the purpose of content, and that screen reader users can easily navigate to relevant sections of content on the page.
 
 ##### Requirements
@@ -651,7 +651,7 @@ Headings must indicate the topic or purpose of the content in that section of th
 ##### Useful resources
 * TBC
 
-#### [2.4.7 Focus visible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html)
+#### [2.4.7 Focus visible (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html)
 It must be easy to tell which element has keyboard focus. This helps sighted keyboard users orient themselves within the page, and confidently interact with it.
 
 ##### Requirements
@@ -668,7 +668,7 @@ It must be easy to tell which element has keyboard focus. This helps sighted key
 
 ### 3.1 Readable
 
-#### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
+#### [3.1.2 Language of parts (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
 When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
 
 ##### Requirements
@@ -683,7 +683,7 @@ When content is displayed in a language that is different from the primary langu
 
 ### 3.2 Predictable
 
-#### [3.2.3 Consistent navigation](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
+#### [3.2.3 Consistent navigation (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
 When ways to navigate content are repeated on multiple pages, they must be presented in a consistent manner. This makes it easier for people to learn how to navigate the service, and it enables people to develop strategies (like using screen reader shortcuts) for more efficient navigation.
 
 ##### Requirements
@@ -696,7 +696,7 @@ When ways to navigate content are repeated on multiple pages, they must be prese
 ##### Useful resources
 * TBC.
 
-#### [3.2.4 Consistent identification](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
+#### [3.2.4 Consistent identification (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
 When features with the same functionality are used in multiple places, they must be identified in a consistent way. This helps screen reader users correctly identify the type and purpose of the functionality.
 
 ##### Requirements
@@ -713,7 +713,7 @@ When features with the same functionality are used in multiple places, they must
 
 ### 3.3 Input Assistance
 
-#### [3.3.1 Error identification](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-identified.html)
+#### [3.3.1 Error identification (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-identified.html)
 When an error occurs the user is informed what caused the error, and the error is described in text. This ensures that the error is available to people who cannot see, distinguish colours, or understand icons and other visual cues.
 
 ##### Requirements
@@ -731,7 +731,7 @@ When an error occurs the user is informed what caused the error, and the error i
 ##### Useful resources
 * TBC
 
-#### [3.3.2 Labels or instructions](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html)
+#### [3.3.2 Labels or instructions (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html)
 When data must be entered in a specific format or in a particular way, clear instructions must be associated with the form field. This ensures that everyone understands any requirements for entering data, and does so in a way that ensures that people unable to see the information are made aware of it by their screen readers.
 
 ##### Requirements
@@ -746,7 +746,7 @@ When data must be entered in a specific format or in a particular way, clear ins
 * [Using aria-describedby to provide form hints](https://www.paciellogroup.com/blog/2014/12/using-aria-describedby-to-provide-helpful-form-hints/)
 * [Basic form hints](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/forms/Basic_form_hints)
 
-#### [3.3.3 Error suggestion](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-suggestions.html)
+#### [3.3.3 Error suggestion (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-suggestions.html)
 When an error is detected, suggestions for correcting the issue must be provided unless the suggestion comprimises security. This helps everyone resolve issues more easily, but especially people with cognitive disabilities who find processing information difficult.
 
 ##### Requirements
@@ -759,7 +759,7 @@ A login error is detected and a suggestion is provided, but it comprimises secur
 ##### Useful resources
 * TBC.
 
-#### [3.3.4 Error prevention (legal, financial, data](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-reversible.html)
+#### [3.3.4 Error prevention (legal, financial, data (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-reversible.html)
 When completion of a form causes a legal commitment, triggers a financial transaction, or gives consent for personal data to be updated or changed, the user must be able to review, correct, and confirm that the information they have entered is correct, or they must be able to reverse the decision. This provides safeguards to help people with all disabilities, but especially those who are vulnerable to making mistakes.
 
 ##### Requirements
@@ -775,7 +775,7 @@ When completion of a form causes a legal commitment, triggers a financial transa
 
 ### 4.1 Compatible
 
-#### [4.1.1 Parsing](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html)
+#### [4.1.1 Parsing (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html)
 The code of the page must not cause browser or assistive technology conflicts. This ensures that content and functionality is presented in a way that works reliably across all supported browsers and assistive technologies.
 
 ##### Requirements
@@ -791,7 +791,7 @@ The code of the page must not cause browser or assistive technology conflicts. T
 ##### Useful resources
 * [W3C conformance validator](https://validator.w3.org/nu/)
 
-#### [4.1.2 Name, role, value](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
+#### [4.1.2 Name, role, value (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
 All interactive components must have an accessible name and role, and the state of the component must be communicated to assistive technologies. This ensures that screen reader users understand the purpose (role) of every component, how to identify it (name), and what state it is in.
 
 ##### Requirements
