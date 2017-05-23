@@ -226,13 +226,13 @@ description: WCAG by role
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row"><a href="#323-consistent-navigation-a">3.2.3 Consistent Navigation (AA)</a></th>
+            <th scope="row"><a href="#323-consistent-navigation-aa">3.2.3 Consistent Navigation (AA)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row"><a href="#324-consistent-identification-a">3.2.4 Consistent Identification (AA)</a></th>
+            <th scope="row"><a href="#324-consistent-identification-aa">3.2.4 Consistent Identification (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
