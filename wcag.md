@@ -352,7 +352,7 @@ Video content like instructional videos must have audio description, unless it a
 ##### Useful resources
 * [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
 
-#### [1.2.4Captions (live)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html)
+#### [1.2.4 Captions (live)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-real-time-captions.html)
 Live broadcast video must have captions that are synchronised with the audio content of the video. This ensures that the information communicated by the audio part of the video is available to people who cannot hear it.
 
 ##### Requirements
@@ -664,21 +664,6 @@ It must be easy to tell which element has keyboard focus. This helps sighted key
 * TBC.
 
 ### 3.1 Readable
-
-### 3.1.1 Input Assistance
-
-#### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
-When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
-
-##### Requirements
-* Content that is written in a different language from the primary language of the page, is identified using HTML (the lang attribute).
-
-##### Common issues
-* Content uses a different language, but the change in language is not identified in the HTML;
-* Content uses a different language, and the wrong language is identified in the HTML.
-
-##### Useful resources
-* [Using the HTML lang attribute](https://www.paciellogroup.com/blog/2016/06/using-the-html-lang-attribute/)
 
 #### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
 When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
