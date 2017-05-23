@@ -24,49 +24,49 @@ description: WCAG by role
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.2.1 Audio-only and Video-only (Prerecorded) (A)</th>
+            <th scope="row"><a href="#121-audio-only-and-video-only-a">1.2.1 Audio-only and Video-only (Prerecorded) (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.2 Captions (Prerecorded) (A)</th>
+            <th scope="row"><a href="#122-captions-a">1.2.2 Captions (Prerecorded) (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.3 Audio Description or Media Alternative (Prerecorded) (AA)</th>
+            <th scope="row"><a href="#123-audio-description-or-media-alternative-a">1.2.3 Audio Description or Media Alternative (Prerecorded) (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.4 Captions (Live) (AA)</th>
+            <th scope="row"><a href="#124-captions-live-aa">1.2.4 Captions (Live) (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.2.5 Audio Description (Prerecorded) (AA)</th>
+            <th scope="row"><a href="#125-audio-description-pre-recorded-aa">1.2.5 Audio Description (Prerecorded) (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.3.1 Info and Relationships (A)</th>
+            <th scope="row"><a href="#131-info-and-relationships-a">1.3.1 Info and Relationships (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.3.2 Meaningful Sequence (A)</th>
+            <th scope="row"><a href="#132-meaningful-sequence-a">1.3.2 Meaningful Sequence (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.3.3 Sensory Characteristics (A)</th>
+            <th scope="row"><a href="#133-sensory-characteristics-a">1.3.3 Sensory Characteristics (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
@@ -78,25 +78,25 @@ description: WCAG by role
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.2 Audio Control (A)</th>
+            <th scope="row"><a href="#142-audio-control-a">1.4.2 Audio Control (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.3 Contrast (Minimum) (AA)</th>
+            <th scope="row"><a href="#143-contrast-minimum-aa">1.4.3 Contrast (Minimum) (AA)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">1.4.4 Resize text (AA)</th>
+            <th scope="row"><a href="#144-resize-text-aa">1.4.4 Resize text (AA)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">1.4.5 Images of Text (AA)</th>
+            <th scope="row"><a href="#145-images-of-text-aa">1.4.5 Images of Text (AA)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -116,73 +116,73 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">2.1.1 Keyboard (A)</th>
+            <th scope="row"><a href="#211-keyboard-a">2.1.1 Keyboard (A)</a></th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.1.2 No Keyboard Trap (A)</th>
+            <th scope="row"><a href="#212-no-keyboard-trap-a">2.1.2 No Keyboard Trap (A)</a></th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.2.1 Timing Adjustable (A)</th>
+            <th scope="row"><a href="#221-timing-adjustable-a">2.2.1 Timing Adjustable (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.2.2 Pause, Stop, Hide (A)</th>
+            <th scope="row"><a href="#222-pause-stop-hide-a">2.2.2 Pause, Stop, Hide (A)</a></th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.3.1 Three Flashes or Below Threshold (A)</th>
+            <th scope="row"><a href="#231-three-flashes-or-below-a">2.3.1 Three Flashes or Below Threshold (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">2.4.1 Bypass Blocks (A)</th>
+            <th scope="row"><a href="#241-bypass-blocks-a">2.4.1 Bypass Blocks (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.2 Page Titled (A)</th>
+            <th scope="row"><a href="#242-page-title-a">2.4.2 Page Titled (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.3 Focus Order (A)</th>
+            <th scope="row"><a href="#243-focus-order-a">2.4.3 Focus Order (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.4 Link Purpose (In Context) (AA)</th>
+            <th scope="row"><a href="#244-link-purpose-in-context-a">2.4.4 Link Purpose (In Context) (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">2.4.5 Multiple Ways (AA)</th>
+            <th scope="row"><a href="#245-multiple-ways">2.4.5 Multiple Ways (AA)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">2.4.6 Headings and Labels (AA)</th>
+            <th scope="row"><a href="#246-headings-and-labels-aa">2.4.6 Headings and Labels (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">2.4.7 Focus Visible (AA)</th>
+            <th scope="row"><a href="#247-focus-visible-aa">2.4.7 Focus Visible (AA)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -208,7 +208,7 @@ description: WCAG by role
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.1.2 Language of Parts (AA)</th>
+            <th scope="row"><a href="#312-language-of-parts-a">3.1.2 Language of Parts (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
@@ -226,25 +226,37 @@ description: WCAG by role
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.3.1 Error Identification (A)</th>
+            <th scope="row"><a href="#323-consistent-navigation-a">3.2.3 Consistent Navigation (AA)</a></th>
+            <td class="no">No</td>
             <td class="yes">Yes</td>
-            <td class="yes">Yes</td>
-            <td class="yes">Yes</td>
+            <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">3.3.2 Labels or Instructions (A)</th>
+            <th scope="row"><a href="#324-consistent-identification-a">3.2.4 Consistent Identification (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
         </tr>
         <tr>
-            <th scope="row">3.3.3 Error Suggestion (AA)</th>
+            <th scope="row"><a href="#331-error-identification-a">3.3.1 Error Identification (A)</a></th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.3.4 Error Prevention (Legal, Financial, Data) (AA)</th>
+            <th scope="row"><a href="#332-labels-or-instructions-a">3.3.2 Labels or Instructions (A)</a></th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row"><a href="#333-error-suggestion-a">3.3.3 Error Suggestion (AA)</a></th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row"><a href="#334-error-prevention-legal-financial-data-a">3.3.4 Error Prevention (Legal, Financial, Data) (AA)</a></th>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -264,13 +276,13 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">4.1.1 Parsing (A)</th>
+            <th scope="row"><a href="#411-parsing-a">4.1.1 Parsing (A)</a></th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">4.1.2 Name, Role, Value (A)</th>
+            <th scope="row"><a href="#412-name-role-value-a">4.1.2 Name, Role, Value (A)</a></th>
             <td class="no">No</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
@@ -683,7 +695,7 @@ When content is displayed in a language that is different from the primary langu
 
 ### 3.2 Predictable
 
-#### [3.2.3 Consistent navigation (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
+#### [3.2.3 Consistent navigation (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
 When ways to navigate content are repeated on multiple pages, they must be presented in a consistent manner. This makes it easier for people to learn how to navigate the service, and it enables people to develop strategies (like using screen reader shortcuts) for more efficient navigation.
 
 ##### Requirements
@@ -696,7 +708,7 @@ When ways to navigate content are repeated on multiple pages, they must be prese
 ##### Useful resources
 * TBC.
 
-#### [3.2.4 Consistent identification (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
+#### [3.2.4 Consistent identification (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
 When features with the same functionality are used in multiple places, they must be identified in a consistent way. This helps screen reader users correctly identify the type and purpose of the functionality.
 
 ##### Requirements
