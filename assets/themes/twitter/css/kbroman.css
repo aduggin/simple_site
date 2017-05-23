@@ -20,7 +20,7 @@ table, th, td {
 	border: 1px solid #999;
 }
 
-thead tr:first-child th {
+thead th:first-child {
 	text-align:left;
 }
 
