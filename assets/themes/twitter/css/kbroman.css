@@ -30,12 +30,11 @@ tbody td {
 }
 
 td.yes {
-	background-color: #FF4136;
+	background-color: #2ECC40;
 	color: #000;
-	
 }
 
 td.no {
-	background-color: #2ECC40;
+	background-color: #FF4136;
 	color: #000;
 }
