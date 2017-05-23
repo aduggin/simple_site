@@ -13,3 +13,23 @@ a code {
 table, th, td {
 	border: 1px solid #999;
 }
+
+tbody th {
+	text-align:left;
+	width:70%;
+}
+tbody td {
+	width:10%;
+	font-weight: bold;
+}
+
+.yes {
+	background-color: #FF4136;
+	color: #000;
+	
+}
+
+.no {
+	background-color: #2ECC40;
+	color: #000;
+}

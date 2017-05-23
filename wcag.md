@@ -8,258 +8,274 @@ description: WCAG by role
 
 <table>
     <caption>Percieveable</caption>
-    <tr>
-        <th scope="col">Success criteria</th>
-        <th scope="col">Content</th>
-        <th scope="col">Design</th>
-        <th scope="col">Code</th>
-    </tr>
-    <tr>
-        <th scope="row">1.1.1 Non-text Content - A</th>
-        <td class="yes">Yes</td>
-        <td class="no">No</td>
-        <td class="yes">Yes</td>
-    </tr>
-    <tr>
-        <th scope="row">1.2.1 Audio-only and Video-only (Prerecorded) - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.2.2 Captions (Prerecorded) - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.2.3 Audio Description or Media Alternative (Prerecorded) - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.2.4 Captions (Live) - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.2.5 Audio Description (Prerecorded) - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.3.1 Info and Relationships - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.3.2 Meaningful Sequence - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.3.3 Sensory Characteristics - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.4.1 Use of Color - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.4.2 Audio Control - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.4.3 Contrast (Minimum) - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.4.4 Resize text - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">1.4.5 Images of Text - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1.1.1 Non-text Content - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">1.2.1 Audio-only and Video-only (Prerecorded) - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.2.2 Captions (Prerecorded) - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.2.3 Audio Description or Media Alternative (Prerecorded) - AA</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.2.4 Captions (Live) - AA</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.2.5 Audio Description (Prerecorded) - AA</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.3.1 Info and Relationships - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">1.3.2 Meaningful Sequence - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">1.3.3 Sensory Characteristics - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.4.1 Use of Color - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.4.2 Audio Control - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.4.3 Contrast (Minimum) - AA</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">1.4.4 Resize text - AA</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">1.4.5 Images of Text - AA</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+    </tbody>
 </table>
 
 <table>
     <caption>Operable</caption>
-    <tr>
-        <th scope="col">Success criteria</th>
-        <th scope="col">Content</th>
-        <th scope="col">Design</th>
-        <th scope="col">Code</th>
-    </tr>
-    <tr>
-        <th scope="row">2.1.1 Keyboard - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.1.2 No Keyboard Trap - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.2.1 Timing Adjustable - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.2.2 Pause, Stop, Hide - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.3.1 Three Flashes or Below Threshold - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.1 Bypass Blocks - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.2 Page Titled - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.3 Focus Order - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.4 Link Purpose (In Context) - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.5 Multiple Ways - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.6 Headings and Labels - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">2.4.7 Focus Visible - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">2.1.1 Keyboard - A</th>
+            <td class="no">No</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.1.2 No Keyboard Trap - A</th>
+            <td class="no">No</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.2.1 Timing Adjustable - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.2.2 Pause, Stop, Hide - A</th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.3.1 Three Flashes or Below Threshold - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.1 Bypass Blocks - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.2 Page Titled - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.3 Focus Order - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.4 Link Purpose (In Context) - AA</th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.5 Multiple Ways - AA</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.6 Headings and Labels - AA</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">2.4.7 Focus Visible - AA</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+    </tbody>
 </table>
 
 <table>
     <caption>Understandable</caption>
-    <tr>
-        <th scope="col">Success criteria</th>
-        <th scope="col">Content</th>
-        <th scope="col">Design</th>
-        <th scope="col">Code</th>
-    </tr>
-    <tr>
-        <th scope="row">3.1.1 Language of Page - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.1.2 Language of Parts - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.2.1 On Focus - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.2.2 On Input - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.3.1 Error Identification - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.3.2 Labels or Instructions - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.3.3 Error Suggestion - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">3.3.4 Error Prevention (Legal, Financial, Data) - AA</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">3.1.1 Language of Page - A</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">3.1.2 Language of Parts - AA</th>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">3.2.1 On Focus - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">3.2.2 On Input - A</th>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">3.3.1 Error Identification - A</th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">3.3.2 Labels or Instructions - A</th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="no">No</td>
+        </tr>
+        <tr>
+            <th scope="row">3.3.3 Error Suggestion - AA</th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">3.3.4 Error Prevention (Legal, Financial, Data) - AA</th>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+            <td class="yes">Yes</td>
+        </tr>
+    </tbody>
 </table>
 
 <table>
     <caption>Robust</caption>
-    <tr>
-        <th scope="col">Success criteria</th>
-        <th scope="col">Content</th>
-        <th scope="col">Design</th>
-        <th scope="col">Code</th>
-    </tr>
-    <tr>
-        <th scope="row">4.1.1 Parsing - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">4.1.2 Name, Role, Value - A</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
+    <thead>
+        <tr>
+            <th scope="col">Success criteria</th>
+            <th scope="col">Content</th>
+            <th scope="col">Design</th>
+            <th scope="col">Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">4.1.1 Parsing - A</th>
+            <td class="no">No</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+        <tr>
+            <th scope="row">4.1.2 Name, Role, Value - A</th>
+            <td class="no">No</td>
+            <td class="no">No</td>
+            <td class="yes">Yes</td>
+        </tr>
+    </tbody>
 </table>
 
 
