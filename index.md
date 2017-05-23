@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Understanding WCAG
+title: WCAG 2 Quick Start Guide
 description: WCAG by role
 ---
 
