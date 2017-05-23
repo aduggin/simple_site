@@ -279,9 +279,9 @@ description: WCAG by role
 </table>
 
 
-## WCAG success criteria
+## Percieveable
 
-### Level A
+### 1.1 Text Alternatives
 
 #### [1.1.1 Non-text content](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html)
 All non-text content like images, charts, icons and infographics, must have an appropriate text equivalent. This ensures that information conveyed by non-text content is available to people who cannot see it, like screen reader users.
@@ -301,6 +301,8 @@ All non-text content like images, charts, icons and infographics, must have an a
 ##### Useful resources
 * [W3C Requirements for providing text to act as an alternative for images](https://www.w3.org/TR/html51/semantics-embedded-content.html#alt-text)
 * [W3C Alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+
+### 1.2 Time-based Media
 
 #### [1.2.1 Audio-only and video-only](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-av-only-alt.html)
 All content that is audio-only like a podcast, or video-only like a silent movie, must have a text description or an audio description. This ensures that information communicated for sight and sound is available to people who cannot see or hear.
@@ -351,6 +353,23 @@ Video content like instructional videos must have audio description, unless it a
 ##### Useful resources
 * [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
 
+
+#### [1.2.5 Audio description (pre-recorded)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc-only.html)
+Video content like instructional videos must have audio description. This ensures that information communicated visually in the video is available to people who cannot see it.
+
+##### Requirements
+* Video that includes important visual information has audio description;
+
+##### Common issues
+* A video includes important visual information but does not have audio description;
+* The audio description does not describe important information communicated visually in the video;
+* The audio description is not synchronised to complement the audio content of the video.
+
+##### Useful resources
+* [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
+
+### 1.3 Adaptable
+
 #### [1.3.1 Info and relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
 When content structures like tables, lists and headings are communicated visually, they must also be communicated in ways that assistive technologies can understand. This ensures that content structures are available to screen reader, screen magnifier and speech recognition tool users.
 
@@ -385,6 +404,8 @@ Instructions must not depend on sensory characteristics like shape, size, colour
 ##### Useful resources
 * TBC
 
+### 2.3 Navigable
+
 #### [2.4.2 Page title](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title.html)
 Each page must have a unique title that indicates its topic or purpose. This ensures that people can quickly orientate themselves within the service and identify the purpose of the page without interpreting its entire contents.
 
@@ -417,6 +438,37 @@ The purpose of every link must be clear from its link text, or its link text plu
 * [Writing good link text](https://www.nomensa.com/blog/2011/writing-good-link-text)
 * [GOV.UK: Using links in content](https://www.gov.uk/guidance/content-design/links#using-links-in-content)
 
+#### [2.4.6 Headings and labels](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html)
+Headings must indicate the topic or purpose of the content in that section of the page, and labels must indicate the purpose of the field they relate to. This ensures people with reading difficulties can understand the purpose of content, and that screen reader users can easily navigate to relevant sections of content on the page.
+
+##### Requirements
+* Headings describe the purpose or topic of the content that follows;
+* Labels indicate the purpose of the fields they relate to.
+
+##### Common issues
+* A heading does not indicate the purpose or topic of the content that follows;
+* A label does not indicate the purpose of the field it relates to.
+
+##### Useful resources
+* TBC
+
+### 3.1.1 Input Assistance
+
+#### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
+When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
+
+##### Requirements
+* Content that is written in a different language from the primary language of the page, is identified using HTML (the lang attribute).
+
+##### Common issues
+* Content uses a different language, but the change in language is not identified in the HTML;
+* Content uses a different language, and the wrong language is identified in the HTML.
+
+##### Useful resources
+* [Using the HTML lang attribute](https://www.paciellogroup.com/blog/2016/06/using-the-html-lang-attribute/)
+
+### 3.3 Input Assistance
+
 #### [3.3.1 Error identification](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-identified.html)
 When an error occurs the user is informed what caused the error, and the error is described in text. This ensures that the error is available to people who cannot see, distinguish colours, or understand icons and other visual cues.
 
@@ -433,46 +485,3 @@ When an error occurs the user is informed what caused the error, and the error i
 
 ##### Useful resources
 * TBC
-
-### Level AA
-
-#### [1.2.5 Audio description (pre-recorded)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-audio-desc-only.html)
-Video content like instructional videos must have audio description. This ensures that information communicated visually in the video is available to people who cannot see it.
-
-##### Requirements
-* Video that includes important visual information has audio description;
-
-##### Common issues
-* A video includes important visual information but does not have audio description;
-* The audio description does not describe important information communicated visually in the video;
-* The audio description is not synchronised to complement the audio content of the video.
-
-##### Useful resources
-* [What is audio description?](https://www.nomensa.com/blog/2010/what-is-audio-description)
-
-#### [2.4.6 Headings and labels](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html)
-Headings must indicate the topic or purpose of the content in that section of the page, and labels must indicate the purpose of the field they relate to. This ensures people with reading difficulties can understand the purpose of content, and that screen reader users can easily navigate to relevant sections of content on the page.
-
-##### Requirements
-* Headings describe the purpose or topic of the content that follows;
-* Labels indicate the purpose of the fields they relate to.
-
-##### Common issues
-* A heading does not indicate the purpose or topic of the content that follows;
-* A label does not indicate the purpose of the field it relates to.
-
-##### Useful resources
-* TBC
-
-#### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
-When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
-
-##### Requirements
-* Content that is written in a different language from the primary language of the page, is identified using HTML (the lang attribute).
-
-##### Common issues
-* Content uses a different language, but the change in language is not identified in the HTML;
-* Content uses a different language, and the wrong language is identified in the HTML.
-
-##### Useful resources
-* [Using the HTML lang attribute](https://www.paciellogroup.com/blog/2016/06/using-the-html-lang-attribute/)
