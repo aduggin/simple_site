@@ -18,7 +18,7 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">[1.1.1 Non-text Content (A)](#111-non-text-content-a)</th>
+            <th scope="row"><a href="#111-non-text-content-a">1.1.1 Non-text Content (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
