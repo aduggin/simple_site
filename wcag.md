@@ -4,7 +4,7 @@ title: Understanding WCAG
 description: WCAG by role
 ---
 
-## Where the responsibility for each success criteria
+## Responsibility for each success criteria
 
 <table>
     <caption>Percieveable</caption>
