@@ -486,6 +486,7 @@ Text must not be presented as part of an image because it cannot be resized, and
 ##### Useful resources
 * TBC.
 
+## Operable
 
 ### 2.1 Keyboard Accessible
 
@@ -663,6 +664,8 @@ It must be easy to tell which element has keyboard focus. This helps sighted key
 ##### Useful resources
 * TBC.
 
+## Understandable
+
 ### 3.1 Readable
 
 #### [3.1.2 Language of parts](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
@@ -768,6 +771,8 @@ When completion of a form causes a legal commitment, triggers a financial transa
 ##### Useful resources
 * TBC.
 
+## Robust
+
 ### 4.1 Compatible
 
 #### [4.1.1 Parsing](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html)
@@ -786,7 +791,7 @@ The code of the page must not cause browser or assistive technology conflicts. T
 ##### Useful resources
 * [W3C conformance validator](https://validator.w3.org/nu/)
 
-#### [4.41.2 Name, role, value](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
+#### [4.1.2 Name, role, value](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
 All interactive components must have an accessible name and role, and the state of the component must be communicated to assistive technologies. This ensures that screen reader users understand the purpose (role) of every component, how to identify it (name), and what state it is in.
 
 ##### Requirements
