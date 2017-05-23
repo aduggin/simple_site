@@ -238,18 +238,6 @@ description: WCAG by role
         <td class="insert">insert</td>
         <td class="insert">insert</td>
     </tr>
-    <tr>
-        <th scope="row">insert</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
-    <tr>
-        <th scope="row">insert</th>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-        <td class="insert">insert</td>
-    </tr>
 </table>
 
 <table>
