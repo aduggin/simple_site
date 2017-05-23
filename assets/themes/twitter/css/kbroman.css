@@ -10,6 +10,12 @@ a code {
   color: #08c;
 }
 
+
+table {
+	margin-top: 2em;
+	width:100%;
+}
+
 table, th, td {
 	border: 1px solid #999;
 }
@@ -23,13 +29,13 @@ tbody td {
 	font-weight: bold;
 }
 
-.yes {
+td.yes {
 	background-color: #FF4136;
 	color: #000;
 	
 }
 
-.no {
+td.no {
 	background-color: #2ECC40;
 	color: #000;
 }
