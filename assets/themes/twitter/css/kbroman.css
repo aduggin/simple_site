@@ -12,7 +12,7 @@ a code {
 
 
 table {
-	margin: 2em 0;
+	margin: 1em 0;
 	width:100%;
 }
 
@@ -37,4 +37,9 @@ td.yes {
 td.no {
 	background-color: #FF4136;
 	color: #000;
+}
+
+caption {
+	text-align:left;
+	font-weight: bold;
 }
