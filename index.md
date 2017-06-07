@@ -116,7 +116,7 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">1.4.1 Use of Color (A)</th>
+            <th scope="row"><a href="#141-use-of-color-a">1.4.1 Use of Color (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
@@ -294,7 +294,7 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">3.1.1 Language of Page (A)</th>
+            <th scope="row"><a href="#311-language-of-page-a">3.1.1 Language of Page (A)</a></th>
             <td class="yes">Yes</td>
             <td class="no">No</td>
             <td class="yes">Yes</td>
@@ -320,13 +320,13 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row">3.2.1 On Focus (A)</th>
+            <th scope="row"><a href="#321-on-focus--a">3.2.1 On Focus (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row">3.2.2 On Input (A)</th>
+            <th scope="row"><a href="#322-on-input--a">3.2.2 On Input (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -576,6 +576,19 @@ Instructions must not depend on sensory characteristics like shape, size, colour
 
 ### 1.4 Distinguishable
 
+#### [1.4.1  Use of Colour](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html)
+Colour must not be the only thing that identifies or differentiates a piece of informative content. This ensures that people who are unable to see colours, and people who have difficulty distinguishing different colours, can still tell different pieces of content apart.
+##### Requirements
+* When rendered in monochrome, information does not disappear.
+* Text identified by colour as having special meaning has another indicator - a visible border and label, underline or other visual effect.
+* Information graphics and charts that use colour as a key also provide distinctive non-colour differences - hatching patterns or directly applied labels.
+##### Common issues
+* Graphics and charts use colours without redundant patterns or size differences.
+* Colour-coding text or backgrounds to indicate essential content, pass/fail categorisation, etc.
+* Links are only distinguished from plain text by colour
+##### Useful resources
+* TBC
+
 #### [1.4.2 Audio control (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-dis-audio.html)
 When audio or video plays automatically on a page, it should last for less than three seconds or there must be a way to pause/stop it. This ensures that people who listen to content with a screen reader can do so without it being drowned out by the audio/video.
 
@@ -802,6 +815,20 @@ It must be easy to tell which element has keyboard focus. This helps sighted key
 
 ### 3.1 Readable
 
+#### [3.1.1 Language of page](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html)
+The written language of the page must be identified in the code of the web page. This makes sure that screen readers automatically use the correct speech libraries for accent and pronunciation.
+
+##### Requirements
+* The language is identified using the `lang` attribute of the ```<html``` element.
+
+##### Common issues
+* No `lang` attribute is present on the ```<html>``` element.
+* The `lang` attribute is present on the ```<html>``` element, but it incorrectly identifies the language of the page.
+
+##### Useful resources
+* [Working with Language on the Web - W3C i18n tutorial](https://www.w3.org/International/tutorials/language-decl/)
+* [Language on the Web](https://www.w3.org/International/getting-started/language)
+
 #### [3.1.2 Language of parts (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
 When content is displayed in a language that is different from the primary language of the page, it must be indicated in a way that assistive technologies understand. This ensures that screen readers switch to the appropriate accent and pronunciation for that language.
 
@@ -816,6 +843,36 @@ When content is displayed in a language that is different from the primary langu
 * [Using the HTML lang attribute](https://www.paciellogroup.com/blog/2016/06/using-the-html-lang-attribute/)
 
 ### 3.2 Predictable
+
+#### [3.2.1  On Focus](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html)
+When a keyboard user focuses on a control it must not cause a change of context, such as loading a new page/tab. This stops unexpected things happening without screen reader and screen magnifer users being aware of it.
+
+##### Requirements
+* `focus` events do not cause navigation, nor form submission
+* components that respond to `focus` do not initiate a "focus trap", where it is impossible or unclear how to navigate out of the component using the keyboard.
+
+##### Common issues
+* Dropdown menus trigger navigation as the user tabs between options
+* Javascript triggers navigation when a user is merely leaving a form control
+* focus is moved by script in ways that surprise the user
+
+##### Useful resources
+* TBC
+
+#### [3.2.2  On Input](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-unpredictable-change.html)
+Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behaviour before using the component.
+
+##### Requirements
+* Users can predict what a control such as a button or drop-down menu will do
+* User interface components built with javascript have adequate and accurate ARIA labelling.
+
+##### Common issues
+* Controls built with javascript lack appropriate ARIA information
+* Form controls are used to trigger navigation without an explicit submit step, and without warning
+
+##### Useful resources
+* [Using ARIA](https://w3c.github.io/using-aria/)
+
 
 #### [3.2.3 Consistent navigation (AA)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
 When ways to navigate content are repeated on multiple pages, they must be presented in a consistent manner. This makes it easier for people to learn how to navigate the service, and it enables people to develop strategies (like using screen reader shortcuts) for more efficient navigation.
