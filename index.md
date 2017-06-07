@@ -320,13 +320,13 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row"><a href="#321-on-focus--a">3.2.1 On Focus (A)</a></th>
+            <th scope="row"><a href="#321-on-focus-a">3.2.1 On Focus (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
         <tr>
-            <th scope="row"><a href="#322-on-input--a">3.2.2 On Input (A)</a></th>
+            <th scope="row"><a href="#322-on-input-a">3.2.2 On Input (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
@@ -576,7 +576,7 @@ Instructions must not depend on sensory characteristics like shape, size, colour
 
 ### 1.4 Distinguishable
 
-#### [1.4.1  Use of Colour (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html)
+#### [1.4.1 Use of Colour (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html)
 Colour must not be the only thing that identifies or differentiates a piece of informative content. This ensures that people who are unable to see colours, and people who have difficulty distinguishing different colours, can still tell different pieces of content apart.
 ##### Requirements
 * When rendered in monochrome, information does not disappear.
