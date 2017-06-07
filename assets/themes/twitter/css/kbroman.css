@@ -27,6 +27,7 @@ thead th:first-child {
 tbody th {
 	text-align:left;
 	width:70%;
+	font-weight:normal;
 }
 tbody td {
 	width:10%;
