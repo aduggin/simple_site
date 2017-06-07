@@ -116,7 +116,7 @@ description: WCAG by role
     </thead>
     <tbody>
         <tr>
-            <th scope="row"><a href="#141-use-of-color-a">1.4.1 Use of Color (A)</a></th>
+            <th scope="row"><a href="#141-use-of-colour-a">1.4.1 Use of Color (A)</a></th>
             <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="no">No</td>
@@ -844,7 +844,7 @@ When content is displayed in a language that is different from the primary langu
 
 ### 3.2 Predictable
 
-#### [3.2.1  On Focus (A)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html)
+#### [3.2.1 On Focus (A)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html)
 When a keyboard user focuses on a control it must not cause a change of context, such as loading a new page/tab. This stops unexpected things happening without screen reader and screen magnifer users being aware of it.
 
 ##### Requirements
@@ -859,7 +859,7 @@ When a keyboard user focuses on a control it must not cause a change of context,
 ##### Useful resources
 * TBC
 
-#### [3.2.2  On Input (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-unpredictable-change.html)
+#### [3.2.2 On Input (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-unpredictable-change.html)
 Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behaviour before using the component.
 
 ##### Requirements
