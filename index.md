@@ -576,7 +576,7 @@ Instructions must not depend on sensory characteristics like shape, size, colour
 
 ### 1.4 Distinguishable
 
-#### [1.4.1  Use of Colour](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html)
+#### [1.4.1  Use of Colour (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html)
 Colour must not be the only thing that identifies or differentiates a piece of informative content. This ensures that people who are unable to see colours, and people who have difficulty distinguishing different colours, can still tell different pieces of content apart.
 ##### Requirements
 * When rendered in monochrome, information does not disappear.
@@ -815,7 +815,7 @@ It must be easy to tell which element has keyboard focus. This helps sighted key
 
 ### 3.1 Readable
 
-#### [3.1.1 Language of page](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html)
+#### [3.1.1 Language of page (A)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html)
 The written language of the page must be identified in the code of the web page. This makes sure that screen readers automatically use the correct speech libraries for accent and pronunciation.
 
 ##### Requirements
@@ -844,7 +844,7 @@ When content is displayed in a language that is different from the primary langu
 
 ### 3.2 Predictable
 
-#### [3.2.1  On Focus](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html)
+#### [3.2.1  On Focus (A)](http://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-receive-focus.html)
 When a keyboard user focuses on a control it must not cause a change of context, such as loading a new page/tab. This stops unexpected things happening without screen reader and screen magnifer users being aware of it.
 
 ##### Requirements
@@ -859,7 +859,7 @@ When a keyboard user focuses on a control it must not cause a change of context,
 ##### Useful resources
 * TBC
 
-#### [3.2.2  On Input](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-unpredictable-change.html)
+#### [3.2.2  On Input (A)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-unpredictable-change.html)
 Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behaviour before using the component.
 
 ##### Requirements
