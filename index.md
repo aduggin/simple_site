@@ -196,7 +196,7 @@ description: WCAG by role
         </tr>
         <tr>
             <th scope="row"><a href="#222-pause-stop-hide-a">2.2.2 Pause, Stop, Hide (A)</a></th>
-            <td class="yes">Yes</td>
+            <td class="no">No</td>
             <td class="yes">Yes</td>
             <td class="yes">Yes</td>
         </tr>
